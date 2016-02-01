@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kalept</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">register</string>
+    <string name="title_activity_login2">login2</string>
+</resources>
