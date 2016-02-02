@@ -1,4 +1,4 @@
-package com.sadish.kalept;
+package com.sadish.myapplication;
 
 import org.junit.Test;
 
